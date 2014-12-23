@@ -30,3 +30,6 @@ hadoop
 			<artifactId>commons-beanutils</artifactId>
 			<version>1.8.0</version>
 		</dependency>
+
+
+http://mvnrepository.com/artifact/org.apache.hadoop/hadoop-core/1.2.1
